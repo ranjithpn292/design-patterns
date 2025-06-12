@@ -1,4 +1,4 @@
-package com.example.design_patterns.StatePattern.BadCode;
+package com.example.design_patterns.BehavioralDesignPatterns.StatePattern.BadCode;
 
 import lombok.Setter;
 

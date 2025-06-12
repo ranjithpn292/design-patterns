@@ -1,4 +1,4 @@
-package com.example.design_patterns.StatePattern.GoodCode;
+package com.example.design_patterns.BehavioralDesignPatterns.StatePattern.GoodCode;
 
 public class WithStatePattern {
 
@@ -7,5 +7,4 @@ public class WithStatePattern {
         directionService.getETA();
         System.out.println(directionService.getDirections());
     }
-
 }

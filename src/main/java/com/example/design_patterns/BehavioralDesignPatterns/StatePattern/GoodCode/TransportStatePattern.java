@@ -1,4 +1,4 @@
-package com.example.design_patterns.StatePattern.GoodCode;
+package com.example.design_patterns.BehavioralDesignPatterns.StatePattern.GoodCode;
 
 public interface TransportStatePattern {
     public int getETA();
